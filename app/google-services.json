@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "731497613718",
+    "firebase_url": "https://watchlist-c6fed.firebaseio.com",
+    "project_id": "watchlist-c6fed",
+    "storage_bucket": "watchlist-c6fed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731497613718:android:22a7c2b3158e36653e75b7",
+        "android_client_info": {
+          "package_name": "com.example.watchlistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731497613718-gcg9s5ithv73qb1ra81et4u3e7mdoese.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.watchlistapp",
+            "certificate_hash": "31276743dbaa7ebced3eb160cbc1a8c61b51409a"
+          }
+        },
+        {
+          "client_id": "731497613718-kdup9e5933ehbl8p04tnrk07lsf45kq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjT8HIz1z6x3cAvv-rYFAkFbMuM5Ej6-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731497613718-kdup9e5933ehbl8p04tnrk07lsf45kq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
